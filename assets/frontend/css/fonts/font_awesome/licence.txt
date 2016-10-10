@@ -1,0 +1,10 @@
+Font Awesome 
+by Dave Gandy
+http://fontawesome.io
+
+http://fortawesome.github.io/Font-Awesome/license/
+Font License: SIL OFL 1.1
+Code License: MIT License
+Documentation License: CC BY 3.0
+
+

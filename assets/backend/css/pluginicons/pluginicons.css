@@ -1,0 +1,121 @@
+@font-face {
+	font-family: 'pluginicons';
+	src:url('fonts/pluginicons.eot?rndc6i');
+	src:url('fonts/pluginicons.eot?#iefixrndc6i') format('embedded-opentype'),
+		url('fonts/pluginicons.ttf?rndc6i') format('truetype'),
+		url('fonts/pluginicons.woff?rndc6i') format('woff'),
+		url('fonts/pluginicons.svg?rndc6i#pluginicons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="pi-"], [class*=" pi-"] {
+	font-family: 'pluginicons';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.pi-image-swich:before{content: "\e600";}
+.pi-image:before{content: "\e601";}
+.pi-divider:before{content: "\e602";}
+.pi-woocommerce:before{content: "\e603";}
+.pi-team:before{content: "\e604";}
+.pi-social-links:before{content: "\e605";}
+.pi-email-link:before{content: "\e606";}
+.pi-vimeo:before{content: "\e607";}
+.pi-brand:before{content: "\e607";}
+.pi-social:before{content: "\e607";}
+.pi-feed:before{content: "\e608";}
+.pi-rss:before{content: "\e608";}
+.pi-youtube:before{content: "\e652";}
+.pi-flipbook:before{content: "\e609";}
+.pi-image-masonry:before{content: "\e60a";}
+.pi-image-carousel:before{content: "\e60b";}
+.pi-stats:before{content: "\e60c";}
+.pi-sidebar:before{content: "\e60d";}
+.pi-search:before{content: "\e60e";}
+.pi-progress-bar-vertical:before{content: "\e60f";}
+.pi-progress-bar:before{content: "\e610";}
+.pi-qrcode:before{content: "\e611";}
+.pi-pricing-box:before{content: "\e612";}
+.pi-code-prettifier:before{content: "\e613";}
+.pi-spacer:before{content: "\e614";}
+.pi-portfolio:before{content: "\e615";}
+.pi-posts:before{content: "\e616";}
+.pi-children-of-page:before{content: "\e617";}
+.pi-sitemap:before{content: "\e617";}
+.pi-metro-box:before{content: "\e618";}
+.pi-service-box:before{content: "\e619";}
+.pi-knob:before{content: "\e61a";}
+.pi-headings:before{content: "\e61b";}
+.pi-hidden-on-devices:before{content: "\e61c";}
+.pi-google-map:before{content: "\e61d";}
+.pi-image-hotspots:before{content: "\e61e";}
+.pi-download:before{content: "\e61f";}
+.pi-countdown:before{content: "\e620";}
+.pi-contact-form-7:before{content: "\e621";}
+.pi-pre:before{content: "\e622";}
+.pi-chart-polar:before{content: "\e623";}
+.pi-chart-radar:before{content: "\e624";}
+.pi-chart:before{content: "\e625";}
+.pi-pie:before{content: "\e625";}
+.pi-stats2:before{content: "\e625";}
+.pi-chart-line:before{content: "\e626";}
+.pi-chart-doughnut:before{content: "\e627";}
+.pi-chart-bar:before{content: "\e628";}
+.pi-testimonials:before{content: "\e629";}
+.pi-image-gallery:before{content: "\e62a";}
+.pi-callout-box:before{content: "\e62b";}
+.pi-paypal:before{content: "\e62c";}
+.pi-blockquote:before{content: "\e62d";}
+.pi-move-up:before{content: "\e62e";}
+.pi-sort:before{content: "\e62e";}
+.pi-arrange:before{content: "\e62e";}
+.pi-scroll-popup:before{content: "\e62f";}
+.pi-alert-box:before{content: "\e630";}
+.pi-accordion:before{content: "\e631";}
+.pi-twitter:before{content: "\e632";}
+.pi-brand2:before{content: "\e632";}
+.pi-tweet:before{content: "\e632";}
+.pi-social2:before{content: "\e632";}
+.pi-add-testimonial:before{content: "\e633";}
+.pi-subscribe:before{content: "\e634";}
+.pi-image-carousel2:before{content: "\e635";}
+.pi-slider:before{content: "\e635";}
+.pi-table:before{content: "\e636";}
+.pi-member:before{content: "\e637";}
+.pi-button:before{content: "\e638";}
+.pi-list:before{content: "\e639";}
+.pi-video:before{content: "\e63a";}
+.pi-tab:before{content: "\e63b";}
+.pi-shopping-cart:before{content: "\e63c";}
+.pi-toggle:before{content: "\e63d";}
+.pi-text:before{content: "\e63e";}
+.pi-settings:before{content: "\e63f";}
+.pi-switch:before{content: "\e640";}
+.pi-undo:before{content: "\e641";}
+.pi-redo:before{content: "\e642";}
+.pi-layouts:before{content: "\e643";}
+.pi-fullscreen:before{content: "\e644";}
+.pi-fullscreen-exit:before{content: "\e645";}
+.pi-edit:before{content: "\e646";}
+.pi-customize:before{content: "\e647";}
+.pi-duplicate:before{content: "\e648";}
+.pi-delete:before{content: "\e649";}
+.pi-non-member:before{content: "\e64a";}
+.pi-move:before{content: "\e64b";}
+.pi-customize-alt:before{content: "\e64c";}
+.pi-split:before{content: "\e64d";}
+.pi-return:before{content: "\e64e";}
+.pi-abort:before{content: "\e64f";}
+.pi-done:before{content: "\e650";}
+.pi-save:before{content: "\e651";}
+.pi-add-box:before {content: "\e653";}
+.pi-collapse:before {content: "\e8b1";}
+.pi-expand:before {content: "\e8b2";}

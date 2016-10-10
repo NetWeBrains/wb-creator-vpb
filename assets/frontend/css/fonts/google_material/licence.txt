@@ -1,0 +1,8 @@
+Material Design icons by Google 
+
+https://github.com/google
+http://google.github.io/material-design-icons/
+
+https://github.com/google/material-design-icons
+
+All icons are released under an Attribution 4.0 International license.

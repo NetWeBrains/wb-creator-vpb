@@ -1,0 +1,53 @@
+#wbcvpb_options_page_form .wbcvpb_settings_tab{
+    display: none;
+}
+
+#wbcvpb_options_page_form .wbcvpb_options_section_intro{
+    display: none;
+}
+
+#wbcvpb_options_page_form .wbcvpb_settings_tab.active{
+    display: block;
+}
+
+#wbcvpb_options_page_form .wbcvpb_settings_tab.active .wbcvpb_options_section_intro{
+    display: block;
+}
+
+#wbcvpb_settings_tabs{
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding-left: 5px;
+}
+
+#wbcvpb_settings_tabs h3{
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-bottom: none;
+    background: #e4e4e4;
+    color: #555;
+    text-decoration: none;
+    font-weight: 700;
+    line-height: 24px;
+    padding: 4px 15px 5px;
+    margin: 0 3px 0 0;
+    font-size: 18px;
+    vertical-align: top;
+    border-width: 1px;
+    white-space: nowrap;
+    position: relative;
+    top: 1px;
+    cursor: pointer;
+}
+
+#wbcvpb_settings_tabs h3:hover{
+    background: #fff;
+}
+
+#wbcvpb_settings_tabs h3.active{
+    background: #f1f1f1;
+    top: 1px;
+    padding: 4px 15px 6px;
+    cursor: default;
+
+}
